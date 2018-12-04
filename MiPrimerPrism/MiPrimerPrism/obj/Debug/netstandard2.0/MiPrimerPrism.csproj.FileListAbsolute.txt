@@ -1,0 +1,13 @@
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\MiPrimerPrism.csprojAssemblyReference.cache
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\MiPrimerPrism.csproj.CoreCompileInputs.cache
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\MiPrimerPrism.AssemblyInfoInputs.cache
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\MiPrimerPrism.AssemblyInfo.cs
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\bin\Debug\netstandard2.0\MiPrimerPrism.deps.json
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\bin\Debug\netstandard2.0\MiPrimerPrism.dll
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\bin\Debug\netstandard2.0\MiPrimerPrism.pdb
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\MiPrimerPrism.dll
+C:\Users\josue.romero\source\repos\MiPrimerPrism\MiPrimerPrism\MiPrimerPrism\obj\Debug\netstandard2.0\MiPrimerPrism.pdb
